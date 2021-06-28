@@ -133,8 +133,6 @@ section {
     border-radius: 15px;
 }
 
-
-
 .hero-cta {
     width: 35%;
     text-align: right;
@@ -189,7 +187,6 @@ section {
     font-size: 16px;
     border-radius: 10px;
 }
-
 
 .hero-form button:hover {
     background-color: var(--tertiary-color);  
@@ -273,8 +270,6 @@ section {
     text-align: center;
 }
 
-
-
 .steps {
     background: var(--primary-color);
 }
@@ -297,8 +292,6 @@ section {
     border-color: var(--tertiary-color);
 }
 
-
-
 .step {
     margin: 50px auto;
     padding-bottom: 50px;
@@ -316,8 +309,7 @@ section {
 .step h3 {
     color: var(--secondary-color);
     font-size: 46px;
-    flex: 1 30%;
-    
+    flex: 1 30%; 
 }
 
 .step-text {
